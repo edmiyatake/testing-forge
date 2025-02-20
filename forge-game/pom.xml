@@ -13,31 +13,52 @@
     <name>Forge Game</name>
 
     <dependencies>
-        <dependency>
-            <groupId>forge</groupId>
-            <artifactId>forge-core</artifactId>
-            <version>${project.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>com.googlecode</groupId>
-            <artifactId>minlog</artifactId>
-            <version>1.2</version>
-        </dependency>
-        <dependency>
-            <groupId>org.testng</groupId>
-            <artifactId>testng</artifactId>
-            <version>7.10.2</version>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>io.sentry</groupId>
-            <artifactId>sentry-logback</artifactId>
-            <version>7.15.0</version>
-        </dependency>
-        <dependency>
-            <groupId>org.jgrapht</groupId>
-            <artifactId>jgrapht-core</artifactId>
-            <version>1.5.2</version>
-        </dependency>
-    </dependencies>
+	    <dependency>
+	        <groupId>forge</groupId>
+	        <artifactId>forge-core</artifactId>
+	        <version>${project.version}</version>
+	    </dependency>
+	    <dependency>
+	        <groupId>com.googlecode</groupId>
+	        <artifactId>minlog</artifactId>
+	        <version>1.2</version>
+	    </dependency>
+	    
+	    <!-- JUnit 5 API -->
+	    <dependency>
+	        <groupId>org.junit.jupiter</groupId>
+	        <artifactId>junit-jupiter-api</artifactId>
+	        <version>5.9.2</version>
+	        <scope>test</scope>
+	    </dependency>
+	
+	    <!-- JUnit 5 Engine -->
+	    <dependency>
+	        <groupId>org.junit.jupiter</groupId>
+	        <artifactId>junit-jupiter-engine</artifactId>
+	        <version>5.9.2</version>
+	        <scope>test</scope>
+	    </dependency>
+	
+	    <!-- TestNG (Only include if you are using TestNG) -->
+	    <dependency>
+	        <groupId>org.testng</groupId>
+	        <artifactId>testng</artifactId>
+	        <version>7.7.1</version>
+	        <scope>test</scope>
+	    </dependency>
+	
+	    <dependency>
+	        <groupId>io.sentry</groupId>
+	        <artifactId>sentry-logback</artifactId>
+	        <version>7.15.0</version>
+	    </dependency>
+	    
+	    <dependency>
+	        <groupId>org.jgrapht</groupId>
+	        <artifactId>jgrapht-core</artifactId>
+	        <version>1.5.2</version>
+	    </dependency>
+	</dependencies>
+
 </project>
