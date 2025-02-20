@@ -1,6 +1,11 @@
 ## Unreleased
 ### No issue
 
+**Update CHANGES.txt**
+
+
+[7f5f22b4e08d959](https://github.com/edmiyatake/testing-forge/commit/7f5f22b4e08d959) Edwin Miyatake *2025-02-20 22:05:21*
+
 **added JUnit and TestingNG dependencies to pom.xml**
 
 
