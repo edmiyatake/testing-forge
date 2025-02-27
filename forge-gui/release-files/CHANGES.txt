@@ -1,6 +1,21 @@
 ## Unreleased
 ### No issue
 
+**Merge branch 'master' of https://github.com/edmiyatake/testing-forge**
+
+
+[7527f4f5418f882](https://github.com/edmiyatake/testing-forge/commit/7527f4f5418f882) Edwin Miyatake *2025-02-27 19:20:41*
+
+**update pom**
+
+
+[32d06b4b5e12f8e](https://github.com/edmiyatake/testing-forge/commit/32d06b4b5e12f8e) Edwin Miyatake *2025-02-27 19:20:39*
+
+**Create maven.yml**
+
+
+[392cfa300f8bee8](https://github.com/edmiyatake/testing-forge/commit/392cfa300f8bee8) Edwin Miyatake *2025-02-27 18:50:40*
+
 **Update CHANGES.txt**
 
 
