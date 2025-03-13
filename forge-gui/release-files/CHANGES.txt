@@ -1,6 +1,11 @@
 ## Unreleased
 ### No issue
 
+**implemented mockito test cases**
+
+
+[e1f1efe5e87e2ed](https://github.com/edmiyatake/testing-forge/commit/e1f1efe5e87e2ed) Edwin Miyatake *2025-03-06 04:55:04*
+
 **Update CHANGES.txt**
 
 
